@@ -88,7 +88,7 @@ for all the category, product and tag.
 
 the walkthrough video is below:
 
-[![Video Thumbnail](./assets/screenshot.png)](https://drive.google.com/file/d/1gfFAEWYA9bcTTQLpF_EbxCk9IaThEJYV)
+[![Video Thumbnail](./assets/Week13screenshot.png)](https://drive.google.com/file/d/1AdLlqMV3qAxdWrHvVbo12HILyofp1RKb)
 
 
 
@@ -122,7 +122,7 @@ Tag:
 
 Link to Video:
 
-https://drive.google.com/file/d/1gfFAEWYA9bcTTQLpF_EbxCk9IaThEJYV
+https://drive.google.com/file/d/1AdLlqMV3qAxdWrHvVbo12HILyofp1RKb
 
 
 Link to GitHub repo:
